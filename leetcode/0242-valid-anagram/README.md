@@ -16,7 +16,7 @@
     - other string subtracts one from the hashmap[key]
 - if they are anagrams, each key in the hashmap should be equal to 0, false otherwise
 
-```
+```C++
 // C++ - Hashmap solution
 class Solution {
 public:

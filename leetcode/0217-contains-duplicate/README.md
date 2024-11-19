@@ -21,7 +21,7 @@
 - Time Complexity: O(N)
 - Space Complexity: O(N)
 
-```
+```C++
 // C++ - Hashmap solution
 class Solution {
 public:
