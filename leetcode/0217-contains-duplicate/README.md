@@ -16,13 +16,12 @@
 
 ## Hashing
 
-- hashmap/hashset
-- loop through each element in the input and check whether its already in the hashmap, if it is then return true, if not then add it to the hashtable
+- loop through each element in the input and check whether its already in the hash table, if it is then return true, if not then add it to the hash table
 - Time Complexity: O(N)
 - Space Complexity: O(N)
 
 ```C++
-// C++ - Hashmap solution
+// C++ Hash table solution
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {

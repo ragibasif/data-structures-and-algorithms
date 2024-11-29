@@ -17,7 +17,7 @@
 - if they are anagrams, each key in the hashmap should be equal to 0, false otherwise
 
 ```C++
-// C++ - Hashmap solution
+// C++ hash hable holution
 class Solution {
 public:
     bool isAnagram(string s, string t) {
