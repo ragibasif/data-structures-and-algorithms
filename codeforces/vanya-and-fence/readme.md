@@ -1,4 +1,0 @@
-
-# vanya and fence
-
-codeforces
