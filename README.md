@@ -7,3 +7,22 @@
 [My Competitive Programming Training Sheet](https://docs.google.com/spreadsheets/d/1QXDzX45hHSb82_gBo1FXZaYpA0x4D3IrWZZrJrqewno/edit?usp=sharing)
 
 [Advent of Code](https://adventofcode.com/)
+
+
+
+**Codeforces C++ template**
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+
+    // Fast I/O
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
+
+    return 0;
+}
+```
