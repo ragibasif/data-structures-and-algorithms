@@ -4,7 +4,7 @@
 
 1. [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 2. [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-3. [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+3. [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 4. [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 5. [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 6. [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (Premium)
